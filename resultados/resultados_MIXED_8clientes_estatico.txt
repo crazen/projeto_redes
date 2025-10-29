@@ -1,0 +1,10 @@
+Clientes,8
+Protocolo,MIXED
+Mobilidade,Nao
+TempoSim,60
+PacotesTransmitidos,56847
+PacotesRecebidos,55906
+PacotesPerdidos,788
+TaxaPerda,1.39
+AtrasoMedio_ms,366.721
+Vazao_Mbps,4.196

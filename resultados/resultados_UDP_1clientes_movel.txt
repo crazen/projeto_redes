@@ -1,0 +1,10 @@
+Clientes,1
+Protocolo,UDP
+Mobilidade,Sim
+TempoSim,60
+PacotesTransmitidos,7374
+PacotesRecebidos,4466
+PacotesPerdidos,2283
+TaxaPerda,30.96
+AtrasoMedio_ms,6.957
+Vazao_Mbps,0.322

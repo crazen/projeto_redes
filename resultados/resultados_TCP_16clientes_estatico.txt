@@ -1,0 +1,10 @@
+Clientes,16
+Protocolo,TCP
+Mobilidade,Nao
+TempoSim,60
+PacotesTransmitidos,54456
+PacotesRecebidos,52232
+PacotesPerdidos,1884
+TaxaPerda,3.46
+AtrasoMedio_ms,367.851
+Vazao_Mbps,4.091
